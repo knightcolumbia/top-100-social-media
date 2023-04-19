@@ -1,6 +1,6 @@
 # Top 100 Social Media Platforms
 
-Repository for Ethan Zuckerman and Chand Rajendra-Nicolucci, "Top 100: The most popular social media platforms and what they can teach us." The essay can be found here.
+Repository for Ethan Zuckerman and Chand Rajendra-Nicolucci, "Top 100: The most popular social media platforms and what they can teach us." The essay can be found [here](https://knightcolumbia.org/blog/top-100-the-most-popular-social-media-platforms-and-what-they-can-teach-us).
 
 The dataset provided here is an attempt at listing the 100 most popular social media platforms in the world. The initial data collection occured in November 2020 and used a combination of SimilarWeb’s [list](https://www.similarweb.com/top-websites/category/computers-electronics-and-technology/social-networks-and-online-communities/) of the top 100 social networks and online communities, Alexa’s [list](https://www.alexa.com/topsites) of the top 500 sites on the web, and Wikipedia’s [list](https://en.wikipedia.org/wiki/List_of_social_networking_services) of social networking services. For further information on the methodology used to construct the dataset see the essay mentioned above.
 
